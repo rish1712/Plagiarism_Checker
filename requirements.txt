@@ -1,0 +1,14 @@
+
+# IRFINAL/Preprocess.py: 2,4,5
+nltk == 3.5
+
+# IRFINAL/Preprocess.py: 6
+numpy == 1.18.4
+
+# IRFINAL/Preprocess.py: 8
+pandas == 1.0.3
+
+# IRFINAL/Spell_Check.py: 1
+spellchecker == 0.4
+
+pyspellchecker == 0.5.5
